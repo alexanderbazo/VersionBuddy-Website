@@ -1,0 +1,26 @@
+<!--
+
+  The <plugins> element contains the description of the plugins available at this repository. Required.
+-->
+<plugins>
+<!--
+
+    Each <plugin> element describes one plugin in the repository. Required.
+    id - used by JetBrains IDEs to uniquely identify a plugin. Required. Must match <id> in plugin.xml
+    url - path to download the plugin JAR/ZIP file. Required. Must be HTTPS
+    version - version of this plugin. Required. Must match <version> in plugin.xml
+  
+-->
+<plugin id="com.github.sientaax.vcspluginba" url="https://alexanderbazo.github.io/VersionBuddy-Website/ersion-buddy-0.0.1.zip" version="0..1">
+<!--
+
+      The <idea-version> element must match the same element in plugin.xml. Required.
+    
+-->
+<name>VersionBuddy</name>
+<description>
+VersionBuddy helps programming students to start using versioncontroll effectively.
+</description>
+</plugin>
+
+</plugins>
