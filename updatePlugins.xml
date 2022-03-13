@@ -11,7 +11,7 @@
     version - version of this plugin. Required. Must match <version> in plugin.xml
   
 -->
-<plugin id="com.github.sientaax.vcspluginba" url="https://alexanderbazo.github.io/VersionBuddy-Website/version-buddy-0.0.3.zip" version="0.0.3">
+<plugin id="com.github.sientaax.vcspluginba" url="https://alexanderbazo.github.io/VersionBuddy-Website/version-buddy-0.0.4.zip" version="0.0.4">
 <!--
 
       The <idea-version> element must match the same element in plugin.xml. Required.
